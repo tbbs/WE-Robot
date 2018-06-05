@@ -1,0 +1,4 @@
+E:\Users\tbbs\Documents\WE Robot\Arduino\src\Chests.cpp:1:10: fatal error: Arduino.h: No such file or directory
+ #include <Arduino.h>
+          ^~~~~~~~~~~
+compilation terminated.
